@@ -1,0 +1,4 @@
+*.class
+sources.txt
+simulation.txt
+.DS_Store
